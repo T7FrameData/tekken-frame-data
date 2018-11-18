@@ -1,0 +1,1942 @@
+[
+  {
+     "command":"in rage LFS or RFS d+3+4",
+     "hit_level":"m",
+     "damage":"55",
+     "start_up":"20 pc8~17",
+     "block_frame":"-7",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Rage art"
+  },
+  {
+     "command":"in rage d+3+4",
+     "hit_level":"lm",
+     "damage":"7,10",
+     "start_up":"12,28~29",
+     "block_frame":"-4~-3",
+     "hit_frame":"0~+1",
+     "ch_frame":"0~+1",
+     "notes":"Rage art"
+  },
+  {
+     "command":"in rage d+3+4, 4",
+     "hit_level":"lm, m (TJ)(RFF)",
+     "damage":"7,10,30",
+     "start_up":"js14~",
+     "block_frame":"+6~+8",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Rage art"
+  },
+  {
+     "command":"in rage u/f+3, 4, 3+4",
+     "hit_level":"m (TJ), m, hh",
+     "damage":"16,12,15,20",
+     "start_up":"js1~",
+     "block_frame":"+2~+3",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Rage art"
+  },
+  {
+     "command":"in rage LFS u/f+3, 4, 3+4",
+     "hit_level":"m (TJ), m, hh",
+     "damage":"16,12,15,20",
+     "start_up":"js1~",
+     "block_frame":"+2~+3",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Rage art"
+  },
+  {
+     "command":"1",
+     "hit_level":"h",
+     "damage":"7",
+     "start_up":"10",
+     "block_frame":"+1",
+     "hit_frame":"+8",
+     "ch_frame":"+8",
+     "notes":""
+  },
+  {
+     "command":"1, 1",
+     "hit_level":"h, h",
+     "damage":"7,8",
+     "start_up":"10",
+     "block_frame":"-2",
+     "hit_frame":"+6",
+     "ch_frame":"+6",
+     "notes":""
+  },
+  {
+     "command":"1, 1, 3",
+     "hit_level":"h, h, l",
+     "damage":"7,8,10",
+     "start_up":"10",
+     "block_frame":"-12",
+     "hit_frame":"-1",
+     "ch_frame":"-1",
+     "notes":""
+  },
+  {
+     "command":"1, 1, 3, 3",
+     "hit_level":"h, h, l, h",
+     "damage":"7,8,10,14",
+     "start_up":"10",
+     "block_frame":"-14",
+     "hit_frame":"-3",
+     "ch_frame":"-3",
+     "notes":""
+  },
+  {
+     "command":"1, 2",
+     "hit_level":"h, h",
+     "damage":"7,10",
+     "start_up":"10",
+     "block_frame":"-1",
+     "hit_frame":"+7",
+     "ch_frame":"+8",
+     "notes":""
+  },
+  {
+     "command":"1, 2, 3",
+     "hit_level":"h, h, (Special)",
+     "damage":"7,10",
+     "start_up":"10",
+     "block_frame":"+3",
+     "hit_frame":"+11g",
+     "ch_frame":"+12",
+     "notes":""
+  },
+  {
+     "command":"1, 2, 4",
+     "hit_level":"h, h, (Special)",
+     "damage":"7,10",
+     "start_up":"10",
+     "block_frame":"+3",
+     "hit_frame":"+11g",
+     "ch_frame":"+12",
+     "notes":""
+  },
+  {
+     "command":"1, 2, f+3",
+     "hit_level":"h, h, m",
+     "damage":"7,10,14",
+     "start_up":"10",
+     "block_frame":"-8",
+     "hit_frame":"+3",
+     "ch_frame":"+3",
+     "notes":""
+  },
+  {
+     "command":"1, 2, f+4 (Close)",
+     "hit_level":"h, h, h (TJ)",
+     "damage":"7,10,34",
+     "start_up":"js14~",
+     "block_frame":"+8~+9",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"1, 2, f+4 (Far)",
+     "hit_level":"h, h, h (TJ)",
+     "damage":"7,10,23",
+     "start_up":"js14~",
+     "block_frame":"-11~-10",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"2",
+     "hit_level":"h",
+     "damage":"9",
+     "start_up":"10",
+     "block_frame":"0",
+     "hit_frame":"+8",
+     "ch_frame":"+9",
+     "notes":""
+  },
+  {
+     "command":"2, 3",
+     "hit_level":"h, (LFS)",
+     "damage":"9",
+     "start_up":"10",
+     "block_frame":"+3",
+     "hit_frame":"+11g",
+     "ch_frame":"+12",
+     "notes":""
+  },
+  {
+     "command":"2, 4",
+     "hit_level":"h, (RFS)",
+     "damage":"9",
+     "start_up":"10",
+     "block_frame":"+3",
+     "hit_frame":"+11g",
+     "ch_frame":"+12",
+     "notes":""
+  },
+  {
+     "command":"2, f+3",
+     "hit_level":"h, m",
+     "damage":"9,14",
+     "start_up":"10",
+     "block_frame":"-8",
+     "hit_frame":"+3",
+     "ch_frame":"+3",
+     "notes":""
+  },
+  {
+     "command":"2, f+4 (Close)",
+     "hit_level":"h, h (TJ)",
+     "damage":"9,34",
+     "start_up":"js14~",
+     "block_frame":"+8~+9",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"2, f+4 (Far)",
+     "hit_level":"h, h (TJ)",
+     "damage":"9,23",
+     "start_up":"js14~",
+     "block_frame":"-11~-10",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"3",
+     "hit_level":"h",
+     "damage":"15",
+     "start_up":"14",
+     "block_frame":"-7",
+     "hit_frame":"+4",
+     "ch_frame":"+4",
+     "notes":""
+  },
+  {
+     "command":"3, 3",
+     "hit_level":"h, m",
+     "damage":"15,12",
+     "start_up":"14",
+     "block_frame":"-13",
+     "hit_frame":"-7",
+     "ch_frame":"-2",
+     "notes":""
+  },
+  {
+     "command":"3, 3, F",
+     "hit_level":"h, m, (LFS)",
+     "damage":"15,12",
+     "start_up":"14",
+     "block_frame":"+2",
+     "hit_frame":"+8",
+     "ch_frame":"+13",
+     "notes":""
+  },
+  {
+     "command":"3, 3, 3",
+     "hit_level":"h, m, m",
+     "damage":"15,12,15",
+     "start_up":"14",
+     "block_frame":"-14",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"3, 3, 4",
+     "hit_level":"h, m, h, (RFS)",
+     "damage":"15,12,15",
+     "start_up":"14",
+     "block_frame":"+8~+12",
+     "hit_frame":"+19~+23g",
+     "ch_frame":"+19~+23g",
+     "notes":""
+  },
+  {
+     "command":"3, 3, d/f or f+4",
+     "hit_level":"h, m, h",
+     "damage":"15,12,25",
+     "start_up":"14",
+     "block_frame":"-4~+2y",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"3~4",
+     "hit_level":"mm (TJ)",
+     "damage":"11,21",
+     "start_up":"22,30 (22)",
+     "block_frame":"-3",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"4",
+     "hit_level":"h",
+     "damage":"14",
+     "start_up":"11~12",
+     "block_frame":"-6~-5",
+     "hit_frame":"+5~+6",
+     "ch_frame":"+5~+6",
+     "notes":""
+  },
+  {
+     "command":"4, 3",
+     "hit_level":"h, m(LFF)",
+     "damage":"14,12",
+     "start_up":"11~12",
+     "block_frame":"-6",
+     "hit_frame":"+5",
+     "ch_frame":"+5",
+     "notes":""
+  },
+  {
+     "command":"4, 3, f (Cancel)",
+     "hit_level":"h, (LFS)",
+     "damage":"14",
+     "start_up":"11~12",
+     "block_frame":"-6~-5",
+     "hit_frame":"+5~+6",
+     "ch_frame":"+5~+6",
+     "notes":""
+  },
+  {
+     "command":"4, 4",
+     "hit_level":"h, h, (RFS)",
+     "damage":"14,10",
+     "start_up":"11~12",
+     "block_frame":"-1",
+     "hit_frame":"+10g",
+     "ch_frame":"+10",
+     "notes":""
+  },
+  {
+     "command":"4, f+4",
+     "hit_level":"h, h(RFF)",
+     "damage":"14,10",
+     "start_up":"11~12",
+     "block_frame":"-5",
+     "hit_frame":"+6",
+     "ch_frame":"+6",
+     "notes":""
+  },
+  {
+     "command":"4, 4, 3",
+     "hit_level":"h, h, m(RFF)",
+     "damage":"14,10,20",
+     "start_up":"11~12",
+     "block_frame":"-15~-9s",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"4, 4, 4",
+     "hit_level":"h, h, h, (RFS)",
+     "damage":"14,10,10",
+     "start_up":"11~12",
+     "block_frame":"-1",
+     "hit_frame":"+10g",
+     "ch_frame":"+10",
+     "notes":""
+  },
+  {
+     "command":"4, 4, f+4",
+     "hit_level":"h, h, h(RFF)",
+     "damage":"14,10,25",
+     "start_up":"11~12",
+     "block_frame":"-6",
+     "hit_frame":"+5",
+     "ch_frame":"+5",
+     "notes":""
+  },
+  {
+     "command":"4, 4, 4, 4",
+     "hit_level":"h, h, h, h(RFF)",
+     "damage":"14,10,10,20",
+     "start_up":"11~12",
+     "block_frame":"+2~+5",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"4, 4, 4, 3",
+     "hit_level":"h, h, h, m(RFF)",
+     "damage":"14,10,10,20",
+     "start_up":"11~12",
+     "block_frame":"-15~-9s",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"1+2",
+     "hit_level":"(RFF)",
+     "damage":"b",
+     "start_up":"11~12",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"3+4",
+     "hit_level":"(RFF)",
+     "damage":"",
+     "start_up":"11~12",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"f+2",
+     "hit_level":"m(RFF)",
+     "damage":"15",
+     "start_up":"16",
+     "block_frame":"-2",
+     "hit_frame":"+9",
+     "ch_frame":"+9",
+     "notes":""
+  },
+  {
+     "command":"f+3",
+     "hit_level":"(Special)",
+     "damage":"",
+     "start_up":"13~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"f+3~n+3",
+     "hit_level":"m",
+     "damage":"25",
+     "start_up":"20(20~)",
+     "block_frame":"-16",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"f, n+4",
+     "hit_level":"(Special)",
+     "damage":"",
+     "start_up":"23~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"f+4",
+     "hit_level":"h, (RFS)",
+     "damage":"21",
+     "start_up":"17~23",
+     "block_frame":"+8~+12",
+     "hit_frame":"+19~+23g",
+     "ch_frame":"+19~+23g",
+     "notes":""
+  },
+  {
+     "command":"f+1+2",
+     "hit_level":"m",
+     "damage":"17",
+     "start_up":"15",
+     "block_frame":"-9",
+     "hit_frame":"+2",
+     "ch_frame":"CS",
+     "notes":""
+  },
+  {
+     "command":"d/f+1",
+     "hit_level":"m",
+     "damage":"10",
+     "start_up":"13~14",
+     "block_frame":"0~+1",
+     "hit_frame":"+7~+8",
+     "ch_frame":"+7~+8",
+     "notes":""
+  },
+  {
+     "command":"d/f+2",
+     "hit_level":"m",
+     "damage":"13",
+     "start_up":"15~16",
+     "block_frame":"-7~-6",
+     "hit_frame":"Launch (JG?)(+4a)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"d/f+3",
+     "hit_level":"m",
+     "damage":"17",
+     "start_up":"22~23",
+     "block_frame":"-12~-11",
+     "hit_frame":"+1~+2",
+     "ch_frame":"CS",
+     "notes":""
+  },
+  {
+     "command":"d/f+3, 4",
+     "hit_level":"m, m",
+     "damage":"17,23",
+     "start_up":"22~23",
+     "block_frame":"-14~-13",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"d/f+3, f (Cancel)",
+     "hit_level":"(LFS)",
+     "damage":"",
+     "start_up":"22~23",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"d/f+4",
+     "hit_level":"m(RFF)",
+     "damage":"20",
+     "start_up":"16~17",
+     "block_frame":"-8~-7",
+     "hit_frame":"+8~+9",
+     "ch_frame":"KND",
+     "notes":"Homing, Tail spin"
+  },
+  {
+     "command":"d/f+1+2",
+     "hit_level":"m",
+     "damage":"12",
+     "start_up":"13~14",
+     "block_frame":"-3~-2",
+     "hit_frame":"+8~+9",
+     "ch_frame":"+8~+9",
+     "notes":""
+  },
+  {
+     "command":"d/f+3+4",
+     "hit_level":"m(,  (Sky)(throw))",
+     "damage":"8(,6,15)",
+     "start_up":"15~16",
+     "block_frame":"-11~-10",
+     "hit_frame":"0~+1",
+     "ch_frame":"0~+1",
+     "notes":""
+  },
+  {
+     "command":"d+3",
+     "hit_level":"l",
+     "damage":"7",
+     "start_up":"17",
+     "block_frame":"-13",
+     "hit_frame":"-2",
+     "ch_frame":"-2",
+     "notes":""
+  },
+  {
+     "command":"d+3, 4",
+     "hit_level":"l, h, (RFS)",
+     "damage":"7,10",
+     "start_up":"17",
+     "block_frame":"+8~+12",
+     "hit_frame":"+14~+18g",
+     "ch_frame":"+19~+23",
+     "notes":""
+  },
+  {
+     "command":"d+4",
+     "hit_level":"l (TC)",
+     "damage":"7",
+     "start_up":"19s cs6~",
+     "block_frame":"-17",
+     "hit_frame":"-6",
+     "ch_frame":"-6",
+     "notes":""
+  },
+  {
+     "command":"d+4, 4",
+     "hit_level":"l (TC), h",
+     "damage":"7,22",
+     "start_up":"19 6~",
+     "block_frame":"-8",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"d/b+3",
+     "hit_level":"l (TC)",
+     "damage":"12",
+     "start_up":"19s cs4~",
+     "block_frame":"-13",
+     "hit_frame":"0",
+     "ch_frame":"+7",
+     "notes":""
+  },
+  {
+     "command":"d/b+4",
+     "hit_level":"l",
+     "damage":"12",
+     "start_up":"16",
+     "block_frame":"-12",
+     "hit_frame":"-8",
+     "ch_frame":"-1",
+     "notes":""
+  },
+  {
+     "command":"d/b+4, f",
+     "hit_level":"l, (RFS)",
+     "damage":"12",
+     "start_up":"16",
+     "block_frame":"-1",
+     "hit_frame":"+3",
+     "ch_frame":"+10",
+     "notes":""
+  },
+  {
+     "command":"d/b+4, 4",
+     "hit_level":"l, h",
+     "damage":"12,21",
+     "start_up":"16",
+     "block_frame":"-3~-1",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Tail spin"
+  },
+  {
+     "command":"d/b+3+4",
+     "hit_level":"!",
+     "damage":"40",
+     "start_up":"61~63",
+     "block_frame":"KND",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"d/b+3+4, b, b (Cancel)",
+     "hit_level":"(LFS)",
+     "damage":"",
+     "start_up":"61~63",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"b+1",
+     "hit_level":"m",
+     "damage":"18",
+     "start_up":"15",
+     "block_frame":"-13",
+     "hit_frame":"0",
+     "ch_frame":"CS (0)",
+     "notes":""
+  },
+  {
+     "command":"b+2",
+     "hit_level":"h",
+     "damage":"18",
+     "start_up":"13~15",
+     "block_frame":"-9~-7",
+     "hit_frame":"+15~+17kg",
+     "ch_frame":"+15~+17kg",
+     "notes":""
+  },
+  {
+     "command":"b+3",
+     "hit_level":"m",
+     "damage":"20",
+     "start_up":"16~18",
+     "block_frame":"-19~-17",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"b+4",
+     "hit_level":"h(RFF)",
+     "damage":"20",
+     "start_up":"13~14",
+     "block_frame":"-9~-8",
+     "hit_frame":"+2~+3",
+     "ch_frame":"CS",
+     "notes":""
+  },
+  {
+     "command":"u/b+3",
+     "hit_level":"m",
+     "damage":"8",
+     "start_up":"16~17",
+     "block_frame":"-14~-13",
+     "hit_frame":"-3~-2",
+     "ch_frame":"-3~-2",
+     "notes":""
+  },
+  {
+     "command":"u/b+3, 3",
+     "hit_level":"m, h (TJ), (LFS)",
+     "damage":"8,15",
+     "start_up":"js17~",
+     "block_frame":"+3~+5",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Tail spin"
+  },
+  {
+     "command":"u/b+3, 4",
+     "hit_level":"m, m, (RFS)",
+     "damage":"8,16",
+     "start_up":"17~",
+     "block_frame":"-4",
+     "hit_frame":"+12g",
+     "ch_frame":"+12g",
+     "notes":""
+  },
+  {
+     "command":"u/b+4",
+     "hit_level":"m (TJ)",
+     "damage":"18",
+     "start_up":"17~20 js5~15",
+     "block_frame":"-8~-5",
+     "hit_frame":"+10~+13",
+     "ch_frame":"+10~+13",
+     "notes":""
+  },
+  {
+     "command":"u+3",
+     "hit_level":"h (TJ), (LFS)",
+     "damage":"33",
+     "start_up":"20 js9~",
+     "block_frame":"+3",
+     "hit_frame":"uKZD",
+     "ch_frame":"uKZD",
+     "notes":""
+  },
+  {
+     "command":"u+4",
+     "hit_level":"m (TJ), (RFS)",
+     "damage":"18",
+     "start_up":"16~18 js9~",
+     "block_frame":"0~+2",
+     "hit_frame":"+11~+13g",
+     "ch_frame":"+11~+13",
+     "notes":""
+  },
+  {
+     "command":"u+3+4",
+     "hit_level":"m (TJ)",
+     "damage":"20",
+     "start_up":"25~26 js8~",
+     "block_frame":"-7~-6",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"u/f+2",
+     "hit_level":"m (TJ)",
+     "damage":"22",
+     "start_up":"26 js13~",
+     "block_frame":"+5s",
+     "hit_frame":"+4s",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"u/f+3",
+     "hit_level":"m (TJ)",
+     "damage":"15",
+     "start_up":"28~29 js9~",
+     "block_frame":"-6~-5",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"u/f+3, 4",
+     "hit_level":"m (TJ), m",
+     "damage":"15,14",
+     "start_up":"js1~",
+     "block_frame":"-8",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"u/f+3, 4 (when second hit inputted)",
+     "hit_level":"m (TJ)",
+     "damage":"15",
+     "start_up":"js9~",
+     "block_frame":"-13~-12",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"u/f+3, 4, 3",
+     "hit_level":"m (TJ), m, h",
+     "damage":"15,14,25",
+     "start_up":"9~",
+     "block_frame":"",
+     "hit_frame":"KND",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"u/f+4",
+     "hit_level":"h (TJ), (RFS)",
+     "damage":"12",
+     "start_up":"22~23 js1~",
+     "block_frame":"-2~-1",
+     "hit_frame":"+4~+5",
+     "ch_frame":"+4~+5",
+     "notes":""
+  },
+  {
+     "command":"u/f+4, 4",
+     "hit_level":"h (TJ), m (TJ), (RFS)",
+     "damage":"12,12",
+     "start_up":"js1~5",
+     "block_frame":"0~+1",
+     "hit_frame":"+6~+7",
+     "ch_frame":"+6~+7",
+     "notes":""
+  },
+  {
+     "command":"u/f+4, 4, 4",
+     "hit_level":"h (TJ), m (TJ), l, (RFS)",
+     "damage":"12,12,12",
+     "start_up":"1~5",
+     "block_frame":"+1~+2",
+     "hit_frame":"+7~+8",
+     "ch_frame":"+7~+8",
+     "notes":""
+  },
+  {
+     "command":"u/f+3+4",
+     "hit_level":"mh (TJ)",
+     "damage":"10,8",
+     "start_up":"14,25 js9~",
+     "block_frame":"-10",
+     "hit_frame":"+1",
+     "ch_frame":"+1",
+     "notes":""
+  },
+  {
+     "command":"u/f+3+4, 4",
+     "hit_level":"mh (TJ), m (TJ)",
+     "damage":"10,8,13",
+     "start_up":"js1~",
+     "block_frame":"-13~-12",
+     "hit_frame":"+1~+2",
+     "ch_frame":"+1~+2",
+     "notes":""
+  },
+  {
+     "command":"f, F+3",
+     "hit_level":"m(RFF)",
+     "damage":"24",
+     "start_up":"22~26 (23~)",
+     "block_frame":"+6~+10",
+     "hit_frame":"+6~+10s",
+     "ch_frame":"+6~+10s",
+     "notes":""
+  },
+  {
+     "command":"f, F+4",
+     "hit_level":"m(RFF)",
+     "damage":"24",
+     "start_up":"17~18 (18~)",
+     "block_frame":"-6~-5",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"f, n, d, d/f+3",
+     "hit_level":"m, (LFS)",
+     "damage":"27",
+     "start_up":"18(21~)",
+     "block_frame":"+3",
+     "hit_frame":"KND",
+     "ch_frame":"CS",
+     "notes":""
+  },
+  {
+     "command":"f, n, d, d/f+4",
+     "hit_level":"m",
+     "damage":"18",
+     "start_up":"16(19~)",
+     "block_frame":"-18",
+     "hit_frame":"Launch(JG?)",
+     "ch_frame":"Launch(JG?)",
+     "notes":""
+  },
+  {
+     "command":"f, n, d/f+4",
+     "hit_level":"m",
+     "damage":"18",
+     "start_up":"16(18~)",
+     "block_frame":"-10",
+     "hit_frame":"Launch(JG?)",
+     "ch_frame":"Launch(JG?)",
+     "notes":""
+  },
+  {
+     "command":"f, f, f+3",
+     "hit_level":"m (TJ)",
+     "damage":"30",
+     "start_up":"22~24a (25~) js3~",
+     "block_frame":"+6~+8",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"f, f, f+4",
+     "hit_level":"h",
+     "damage":"28",
+     "start_up":"18~19a (21~) js14~",
+     "block_frame":"+5~+6",
+     "hit_frame":"+8~+9b",
+     "ch_frame":"+8~+9b",
+     "notes":""
+  },
+  {
+     "command":"WS+3",
+     "hit_level":"m",
+     "damage":"20",
+     "start_up":"14~18",
+     "block_frame":"-7~-3",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"WS+4",
+     "hit_level":"m",
+     "damage":"12",
+     "start_up":"11~12",
+     "block_frame":"-3~-2",
+     "hit_frame":"+8~+9",
+     "ch_frame":"+8~+9",
+     "notes":""
+  },
+  {
+     "command":"WS+4, 4",
+     "hit_level":"m, m(RFF)",
+     "damage":"12,13",
+     "start_up":"11~12",
+     "block_frame":"-5~-1",
+     "hit_frame":"+4~+8s",
+     "ch_frame":"+4~+8s",
+     "notes":""
+  },
+  {
+     "command":"WS+3+4",
+     "hit_level":"m(RFF)",
+     "damage":"16",
+     "start_up":"20~21b",
+     "block_frame":"-9~-8",
+     "hit_frame":"+2~+3",
+     "ch_frame":"+2~+3",
+     "notes":""
+  },
+  {
+     "command":"WS+3+4, 3",
+     "hit_level":"m, m",
+     "damage":"16,20",
+     "start_up":"20~21",
+     "block_frame":"-5~0",
+     "hit_frame":"+6~+11s (KND)",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"SS+3",
+     "hit_level":"m",
+     "damage":"15",
+     "start_up":"18~19 (28~)",
+     "block_frame":"-12~-11",
+     "hit_frame":"-1~0",
+     "ch_frame":"FS (+5~+6)",
+     "notes":""
+  },
+  {
+     "command":"SS+3, 3",
+     "hit_level":"m, h(LFS)",
+     "damage":"15,18",
+     "start_up":"18~19 (28~)",
+     "block_frame":"+3~+4",
+     "hit_frame":"+14~+15g",
+     "ch_frame":"+14~+15",
+     "notes":""
+  },
+  {
+     "command":"SS+4",
+     "hit_level":"l(RFF)",
+     "damage":"18",
+     "start_up":"19~20 (29~)",
+     "block_frame":"-13~-12",
+     "hit_frame":"+5~+6s",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFF BT 4",
+     "hit_level":"m(RFF)",
+     "damage":"20",
+     "start_up":"14~16",
+     "block_frame":"-13~-11",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"RFF 1+2",
+     "hit_level":"(LFF)",
+     "damage":"b",
+     "start_up":"14~16",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"RFF 3+4",
+     "hit_level":"(LFF)",
+     "damage":"",
+     "start_up":"14~16",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"RFF 1",
+     "hit_level":"h",
+     "damage":"10",
+     "start_up":"10",
+     "block_frame":"0",
+     "hit_frame":"+6",
+     "ch_frame":"+6",
+     "notes":""
+  },
+  {
+     "command":"RFF 1, 1",
+     "hit_level":"h, m(LFF)",
+     "damage":"10,12",
+     "start_up":"10",
+     "block_frame":"-9",
+     "hit_frame":"+2",
+     "ch_frame":"+2",
+     "notes":""
+  },
+  {
+     "command":"RFF 2",
+     "hit_level":"h",
+     "damage":"6",
+     "start_up":"10",
+     "block_frame":"+2",
+     "hit_frame":"+8",
+     "ch_frame":"+8",
+     "notes":""
+  },
+  {
+     "command":"RFF 2, 1",
+     "hit_level":"h, h",
+     "damage":"6,10",
+     "start_up":"10",
+     "block_frame":"0",
+     "hit_frame":"+6",
+     "ch_frame":"+6",
+     "notes":""
+  },
+  {
+     "command":"RFF 2, 1, 1",
+     "hit_level":"h, h, m(LFF)",
+     "damage":"6,10,12",
+     "start_up":"10",
+     "block_frame":"-9",
+     "hit_frame":"+2",
+     "ch_frame":"+2",
+     "notes":""
+  },
+  {
+     "command":"RFF 2, 3",
+     "hit_level":"h, h(LFF)",
+     "damage":"6,20",
+     "start_up":"10",
+     "block_frame":"-9~-7",
+     "hit_frame":"+2~+4",
+     "ch_frame":"CS",
+     "notes":""
+  },
+  {
+     "command":"RFF 2, 4",
+     "hit_level":"h, h(RFF)",
+     "damage":"6,12",
+     "start_up":"10",
+     "block_frame":"-8",
+     "hit_frame":"+3",
+     "ch_frame":"+3",
+     "notes":""
+  },
+  {
+     "command":"RFF 2, 4, b or f",
+     "hit_level":"h, h, (RFS)",
+     "damage":"8,16",
+     "start_up":"10",
+     "block_frame":"+7",
+     "hit_frame":"+18g",
+     "ch_frame":"+18g (+14)",
+     "notes":""
+  },
+  {
+     "command":"RFF 2, 4, d or u",
+     "hit_level":"h, h, (RFS)",
+     "damage":"8,16",
+     "start_up":"10",
+     "block_frame":"+6",
+     "hit_frame":"+17g",
+     "ch_frame":"+17g (+13)",
+     "notes":""
+  },
+  {
+     "command":"RFF 2, 4, 3",
+     "hit_level":"h, h, m",
+     "damage":"6,12,20",
+     "start_up":"10",
+     "block_frame":"-15~-9s",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFF 2, 4, 4",
+     "hit_level":"h, h, h(LFF)",
+     "damage":"6,12,23",
+     "start_up":"10",
+     "block_frame":"-5~-4",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Tail spin"
+  },
+  {
+     "command":"RFF 2, b+4",
+     "hit_level":"h, h (TC)(LFF)",
+     "damage":"6,27",
+     "start_up":"10",
+     "block_frame":"-9~-8",
+     "hit_frame":"+13kg",
+     "ch_frame":"+13kg",
+     "notes":"Tail spin"
+  },
+  {
+     "command":"RFF 3",
+     "hit_level":"m(LFF)",
+     "damage":"13",
+     "start_up":"16",
+     "block_frame":"-4",
+     "hit_frame":"+7",
+     "ch_frame":"+7",
+     "notes":""
+  },
+  {
+     "command":"RFF 3, 4",
+     "hit_level":"m, h, (RFS)",
+     "damage":"13,16",
+     "start_up":"16",
+     "block_frame":"+9~+10g",
+     "hit_frame":"+20~+21g",
+     "ch_frame":"+10~+11",
+     "notes":""
+  },
+  {
+     "command":"RFF 3, F+4",
+     "hit_level":"m, h, (RFF)",
+     "damage":"13,16",
+     "start_up":"16",
+     "block_frame":"-7~-6",
+     "hit_frame":"+4~+5",
+     "ch_frame":"-6~-5",
+     "notes":""
+  },
+  {
+     "command":"RFF 3~4",
+     "hit_level":"h(LFF)",
+     "damage":"35",
+     "start_up":"27~30 (27~) pc8~26",
+     "block_frame":"+4~+7y",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Homing, Tail spin, Power crush"
+  },
+  {
+     "command":"RFF 4",
+     "hit_level":"h(RFF)",
+     "damage":"12",
+     "start_up":"12",
+     "block_frame":"-8",
+     "hit_frame":"+3",
+     "ch_frame":"+3",
+     "notes":""
+  },
+  {
+     "command":"RFF 4, b or f",
+     "hit_level":"h, (RFS)",
+     "damage":"12",
+     "start_up":"12",
+     "block_frame":"+7",
+     "hit_frame":"+18g",
+     "ch_frame":"+18g (+14)",
+     "notes":""
+  },
+  {
+     "command":"RFF 4, d or u",
+     "hit_level":"h, (RFS)",
+     "damage":"12",
+     "start_up":"12",
+     "block_frame":"+6",
+     "hit_frame":"+17g",
+     "ch_frame":"+17g (+13)",
+     "notes":""
+  },
+  {
+     "command":"RFF 4, 3",
+     "hit_level":"h, m, (Special)",
+     "damage":"12,20",
+     "start_up":"12",
+     "block_frame":"-15~-9 OC",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFF 4, 4",
+     "hit_level":"h, h(LFF)",
+     "damage":"12,23",
+     "start_up":"12",
+     "block_frame":"-5~-4",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Tail spin"
+  },
+  {
+     "command":"RFF f+4",
+     "hit_level":"(Special)",
+     "damage":"",
+     "start_up":"35~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"RFF f+4~4",
+     "hit_level":"m",
+     "damage":"20",
+     "start_up":"18~20 (18~)",
+     "block_frame":"-12~-10",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"RFF f+3",
+     "hit_level":"h, (LFS)",
+     "damage":"21",
+     "start_up":"14~17",
+     "block_frame":"+12~+15g",
+     "hit_frame":"+23~+26g",
+     "ch_frame":"+23~+26g",
+     "notes":""
+  },
+  {
+     "command":"RFF f+3, B",
+     "hit_level":"h(RFF)",
+     "damage":"21",
+     "start_up":"14~17b",
+     "block_frame":"-11~-8",
+     "hit_frame":"0~+3",
+     "ch_frame":"0~+3",
+     "notes":""
+  },
+  {
+     "command":"RFF d/f+3",
+     "hit_level":"m(LFF)",
+     "damage":"25",
+     "start_up":"20~21",
+     "block_frame":"-11~-10",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Homing, Tail spin"
+  },
+  {
+     "command":"RFF d/f+4",
+     "hit_level":"m",
+     "damage":"12",
+     "start_up":"13",
+     "block_frame":"-7",
+     "hit_frame":"+1",
+     "ch_frame":"+1",
+     "notes":""
+  },
+  {
+     "command":"RFF d/f+4, b or f",
+     "hit_level":"m, (RFS)",
+     "damage":"12",
+     "start_up":"13",
+     "block_frame":"+7",
+     "hit_frame":"+15g",
+     "ch_frame":"+15",
+     "notes":""
+  },
+  {
+     "command":"RFF d/f+4, d or u",
+     "hit_level":"m, (RFS)",
+     "damage":"12",
+     "start_up":"13",
+     "block_frame":"+6",
+     "hit_frame":"+14g",
+     "ch_frame":"+14",
+     "notes":""
+  },
+  {
+     "command":"RFF d+4",
+     "hit_level":"l",
+     "damage":"19",
+     "start_up":"19",
+     "block_frame":"-11",
+     "hit_frame":"+5",
+     "ch_frame":"+15g",
+     "notes":""
+  },
+  {
+     "command":"RFF d/b+3",
+     "hit_level":"l (TC)",
+     "damage":"13",
+     "start_up":"17 cs10~",
+     "block_frame":"-11",
+     "hit_frame":"-3",
+     "ch_frame":"+4",
+     "notes":""
+  },
+  {
+     "command":"RFF d/b+3, 3",
+     "hit_level":"l, h(LFF)",
+     "damage":"13,28",
+     "start_up":"17 10~",
+     "block_frame":"-2~0y",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":"Tail spin"
+  },
+  {
+     "command":"RFF b+2",
+     "hit_level":"m",
+     "damage":"17",
+     "start_up":"16~17",
+     "block_frame":"+2~+3",
+     "hit_frame":"+6~+7s",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFF b+3",
+     "hit_level":"h(LFF)",
+     "damage":"20",
+     "start_up":"13~14",
+     "block_frame":"-9~-8",
+     "hit_frame":"+2~+3",
+     "ch_frame":"CS",
+     "notes":""
+  },
+  {
+     "command":"RFF b+4",
+     "hit_level":"h (TC)(LFF)",
+     "damage":"36",
+     "start_up":"18~19 cs6~17",
+     "block_frame":"-9~-8",
+     "hit_frame":"+13kg",
+     "ch_frame":"+13kg",
+     "notes":"Tail spin"
+  },
+  {
+     "command":"RFF f, F+3",
+     "hit_level":"m (TJ)(LFF)",
+     "damage":"22",
+     "start_up":"22~25a (23~) js3~",
+     "block_frame":"-6~-3s",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFF f, F+4",
+     "hit_level":"m(LFF)",
+     "damage":"18",
+     "start_up":"22(23~)",
+     "block_frame":"-17",
+     "hit_frame":"-6",
+     "ch_frame":"-6",
+     "notes":""
+  },
+  {
+     "command":"RFF f, F+4, 3",
+     "hit_level":"m, h (TJ)",
+     "damage":"18,20",
+     "start_up":"js5~",
+     "block_frame":"+14~+17",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFF BT 3",
+     "hit_level":"m(LFF)",
+     "damage":"20",
+     "start_up":"14~16",
+     "block_frame":"-13~-11",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"RFF BT 4",
+     "hit_level":"m(RFF)",
+     "damage":"16",
+     "start_up":"20~21b",
+     "block_frame":"-9~-8",
+     "hit_frame":"+2~+3",
+     "ch_frame":"+2~+3",
+     "notes":""
+  },
+  {
+     "command":"RFF BT 4, 3",
+     "hit_level":"m, m",
+     "damage":"16,20",
+     "start_up":"20~21",
+     "block_frame":"-5~0",
+     "hit_frame":"+6~+11s (KND)",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFF BT d+3",
+     "hit_level":"l (TC)(LFF)",
+     "damage":"20",
+     "start_up":"18~19s cs4~",
+     "block_frame":"-13~-12",
+     "hit_frame":"-2~-1",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"f+3",
+     "hit_level":"(Special)",
+     "damage":"",
+     "start_up":"18~19 4~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"LFS 3+4",
+     "hit_level":"(RFS)",
+     "damage":"",
+     "start_up":"18~19 4~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"LFS 1",
+     "hit_level":"h(LFF)",
+     "damage":"7",
+     "start_up":"13",
+     "block_frame":"+5",
+     "hit_frame":"+7",
+     "ch_frame":"+7",
+     "notes":""
+  },
+  {
+     "command":"LFS 2",
+     "hit_level":"m(RFF)",
+     "damage":"15",
+     "start_up":"16",
+     "block_frame":"-2",
+     "hit_frame":"+9",
+     "ch_frame":"+9",
+     "notes":""
+  },
+  {
+     "command":"LFS 3",
+     "hit_level":"m(LFF)",
+     "damage":"12",
+     "start_up":"14",
+     "block_frame":"-13",
+     "hit_frame":"-7",
+     "ch_frame":"-2",
+     "notes":""
+  },
+  {
+     "command":"LFS 3, 3",
+     "hit_level":"m, m(LFF)",
+     "damage":"12,15",
+     "start_up":"14",
+     "block_frame":"-14",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS 3, F",
+     "hit_level":"m, (LFS)",
+     "damage":"12",
+     "start_up":"14",
+     "block_frame":"+2",
+     "hit_frame":"+8",
+     "ch_frame":"+13",
+     "notes":""
+  },
+  {
+     "command":"LFS 3, 4",
+     "hit_level":"m, h, (RFS)",
+     "damage":"12,15",
+     "start_up":"14",
+     "block_frame":"+8~+12",
+     "hit_frame":"+19~+23g",
+     "ch_frame":"+19~+23g",
+     "notes":""
+  },
+  {
+     "command":"LFS 3, d/f or f+4",
+     "hit_level":"m, h(LFF)",
+     "damage":"12,25",
+     "start_up":"14",
+     "block_frame":"-4~+2y",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS 4",
+     "hit_level":"h (TJ), (RFS)",
+     "damage":"24",
+     "start_up":"14~16 js8~",
+     "block_frame":"+2~+4",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS 1+4",
+     "hit_level":"! (TJ)(LFF)",
+     "damage":"80",
+     "start_up":"66~69 js54~",
+     "block_frame":"KND",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS 1+4 , b, b (Cancel)",
+     "hit_level":"(LFF)",
+     "damage":"",
+     "start_up":"66~69 54~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"LFS f+3",
+     "hit_level":"m, (LFS)",
+     "damage":"25",
+     "start_up":"19~20",
+     "block_frame":"+3~+4",
+     "hit_frame":"KND",
+     "ch_frame":"CS (20~21)",
+     "notes":""
+  },
+  {
+     "command":"LFS f+4",
+     "hit_level":"m(RFF)",
+     "damage":"17",
+     "start_up":"16~18",
+     "block_frame":"-7~-5",
+     "hit_frame":"+1~+3",
+     "ch_frame":"+4~+6",
+     "notes":""
+  },
+  {
+     "command":"LFS f+4, 3",
+     "hit_level":"m, h (TJ)(RFF)",
+     "damage":"17,26",
+     "start_up":"js17~",
+     "block_frame":"+3~+5",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS d/f+3",
+     "hit_level":"m(LFF)",
+     "damage":"17",
+     "start_up":"22~23",
+     "block_frame":"-12~-11",
+     "hit_frame":"+1~+2",
+     "ch_frame":"CS",
+     "notes":""
+  },
+  {
+     "command":"LFS d/f+3, 4",
+     "hit_level":"m, m(LFF)",
+     "damage":"17,23",
+     "start_up":"22~23",
+     "block_frame":"-14~-13",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS d/f+3, f (Cancel)",
+     "hit_level":"(LFS)",
+     "damage":"",
+     "start_up":"22~23",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"LFS d+3",
+     "hit_level":"l(LFF)",
+     "damage":"7",
+     "start_up":"16",
+     "block_frame":"-17",
+     "hit_frame":"-6",
+     "ch_frame":"-6",
+     "notes":""
+  },
+  {
+     "command":"LFS d+3, 4",
+     "hit_level":"l, h, (RFS)",
+     "damage":"7,10",
+     "start_up":"16",
+     "block_frame":"+8~+12g",
+     "hit_frame":"+14~+18g",
+     "ch_frame":"+19~+23",
+     "notes":""
+  },
+  {
+     "command":"LFS d or d/f+4",
+     "hit_level":"l (TC)(LFF)",
+     "damage":"12",
+     "start_up":"28~30s cs4~",
+     "block_frame":"-23",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS d/b+4",
+     "hit_level":"l(RFF)",
+     "damage":"17",
+     "start_up":"20~21",
+     "block_frame":"-12~-11",
+     "hit_frame":"+4~+5",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS b+1",
+     "hit_level":"m",
+     "damage":"18",
+     "start_up":"15",
+     "block_frame":"-13",
+     "hit_frame":"0",
+     "ch_frame":"CS (0)",
+     "notes":""
+  },
+  {
+     "command":"LFS b+3",
+     "hit_level":"m (TJ)(RFF)",
+     "damage":"23",
+     "start_up":"20~22 pc8~19 js15~",
+     "block_frame":"-12~-10",
+     "hit_frame":"+14~+16kg",
+     "ch_frame":"+14~+16gk",
+     "notes":"Homing, Tail spin, Power crush"
+  },
+  {
+     "command":"LFS b+4",
+     "hit_level":"m(RFF)",
+     "damage":"28",
+     "start_up":"16~17",
+     "block_frame":"-8~-7",
+     "hit_frame":"+7~+8",
+     "ch_frame":"CS",
+     "notes":""
+  },
+  {
+     "command":"LFS u/f+3",
+     "hit_level":"m (TJ)(LFF)",
+     "damage":"13",
+     "start_up":"28~29 js9~",
+     "block_frame":"-6~-5",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"LFS u/f+3, 4",
+     "hit_level":"m (TJ), m(LFF)",
+     "damage":"13,12",
+     "start_up":"js1~",
+     "block_frame":"-8~-7",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"LFS u/f+3, 4, 3",
+     "hit_level":"m (TJ), m, h(LFF)",
+     "damage":"13,12,24",
+     "start_up":"1~",
+     "block_frame":"",
+     "hit_frame":"KND",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"LFS u/f+4",
+     "hit_level":"m (TJ)(LFF)",
+     "damage":"18",
+     "start_up":"23 js7~20",
+     "block_frame":"-15",
+     "hit_frame":"Launch(JG?)",
+     "ch_frame":"Launch(JG?)",
+     "notes":""
+  },
+  {
+     "command":"LFS u/f+3+4",
+     "hit_level":"mh (TJ)(LFF)",
+     "damage":"10,8",
+     "start_up":"14,25 js9~",
+     "block_frame":"-10",
+     "hit_frame":"+1",
+     "ch_frame":"+1",
+     "notes":""
+  },
+  {
+     "command":"LFS u/f+3+4, 4",
+     "hit_level":"mh (TJ), m (TJ)(LFF)",
+     "damage":"10,8,13",
+     "start_up":"js1~",
+     "block_frame":"-13~-12",
+     "hit_frame":"+1~+2",
+     "ch_frame":"+1~+2",
+     "notes":""
+  },
+  {
+     "command":"LFS f or b or u or d",
+     "hit_level":"(Special)",
+     "damage":"",
+     "start_up":"1~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"f, n+4",
+     "hit_level":"(Special)",
+     "damage":"",
+     "start_up":"1~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"RFS 3+4",
+     "hit_level":"(LFS)",
+     "damage":"",
+     "start_up":"1~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  },
+  {
+     "command":"RFS 1",
+     "hit_level":"m(LFF)",
+     "damage":"15",
+     "start_up":"16",
+     "block_frame":"-2",
+     "hit_frame":"+9",
+     "ch_frame":"+9",
+     "notes":""
+  },
+  {
+     "command":"RFS 2",
+     "hit_level":"h(RFF)",
+     "damage":"7",
+     "start_up":"13",
+     "block_frame":"+5",
+     "hit_frame":"+7",
+     "ch_frame":"+7",
+     "notes":""
+  },
+  {
+     "command":"RFS 3",
+     "hit_level":"h (TJ), (LFS)",
+     "damage":"24",
+     "start_up":"14~16 js8~",
+     "block_frame":"+2~-4",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFS 4",
+     "hit_level":"m(RFF)",
+     "damage":"20",
+     "start_up":"14",
+     "block_frame":"-14",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFS f+3",
+     "hit_level":"m(LFF)",
+     "damage":"17",
+     "start_up":"16~18",
+     "block_frame":"-7~-5",
+     "hit_frame":"+1~+3",
+     "ch_frame":"+4~+6",
+     "notes":""
+  },
+  {
+     "command":"RFS f+3, 4",
+     "hit_level":"m, h (TJ)(LFF)",
+     "damage":"17,26",
+     "start_up":"js17~",
+     "block_frame":"+3~+5",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFS f+4",
+     "hit_level":"hh, (RFS)",
+     "damage":"8,10",
+     "start_up":"8,18",
+     "block_frame":"+1",
+     "hit_frame":"+3",
+     "ch_frame":"+7",
+     "notes":""
+  },
+  {
+     "command":"RFS f+4, 4",
+     "hit_level":"hh, h(RFF)",
+     "damage":"8,10,12",
+     "start_up":"8,18",
+     "block_frame":"-6",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"RFS d/f+4",
+     "hit_level":"m(LFF)",
+     "damage":"14",
+     "start_up":"17~19",
+     "block_frame":"-5~-3",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFS d/b or d or d/f+3",
+     "hit_level":"l (TC)(LFF)",
+     "damage":"12",
+     "start_up":"28~30s cs4~",
+     "block_frame":"-23",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFS d+4",
+     "hit_level":"l(LFF)",
+     "damage":"11",
+     "start_up":"20~21",
+     "block_frame":"-31",
+     "hit_frame":"-1~0 (KND)",
+     "ch_frame":"-1~0 (KND)",
+     "notes":""
+  },
+  {
+     "command":"RFS d+4, 3",
+     "hit_level":"l, m(LFF)",
+     "damage":"11,25",
+     "start_up":"20~21",
+     "block_frame":"-14",
+     "hit_frame":"KND",
+     "ch_frame":"KND",
+     "notes":""
+  },
+  {
+     "command":"RFS b+3",
+     "hit_level":"m(LFF)",
+     "damage":"21",
+     "start_up":"16~17",
+     "block_frame":"-15~-14",
+     "hit_frame":"Launch (JG?)",
+     "ch_frame":"Launch (JG?)",
+     "notes":""
+  },
+  {
+     "command":"RFS b+4",
+     "hit_level":"m (TJ)(LFF)",
+     "damage":"23",
+     "start_up":"20~22 pc8~19 js15~",
+     "block_frame":"-12~-10",
+     "hit_frame":"+14kg",
+     "ch_frame":"+14kg",
+     "notes":"Homing, Tail spin, Power crush"
+  },
+  {
+     "command":"RFS f or b or u or d",
+     "hit_level":"(Special)",
+     "damage":"",
+     "start_up":"20~22 8~19 15~",
+     "block_frame":"",
+     "hit_frame":"",
+     "ch_frame":"",
+     "notes":""
+  }
+]
