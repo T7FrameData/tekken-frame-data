@@ -1,5 +1,3 @@
-const config = require('../storage/config.json');
-
 exports.run = ((client) => {
   console.log('Successfully booted up Tekken 7 Frame Data bot.');
 
